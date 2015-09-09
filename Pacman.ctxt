@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pacman()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Pacman\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ eat()
+comment2.text=\n\ Eating\ Method\n
+comment3.params=ScoreGame
+comment3.target=void\ incrementScore(int)
+comment3.text=\n\ Keeps\ the\ main\ score\n
+comment4.params=
+comment4.target=Ghost\ getGhost()
+comment4.text=\n\ Gets\ a\ specific\ ghost\ that\ pacman\ has\ intersected\n
+comment5.params=
+comment5.target=void\ turn()
+comment5.text=\n\ Turn\ method\ (Control\ pacman\ by\ using\ the\ different\ arrow\ keys)\n
+comment6.params=
+comment6.target=void\ animation()
+comment6.text=\n\ Animation.\ This\ is\ done\ by\ switching\ two\ of\ four\ possible\ images.\n\ There\ are\ four\ different\ pictures,\ two\ of\ pacman\ facing\ one\ way,\n\ two\ the\ other\ way.\ This\ method\ gets\ the\ variable\ direction\ going\n\ and\ sets\ the\ images\ accordingly,\ there\ are\ 2\ counters\ to\ delay\ the\n\ switching\ of\ images.\n
+comment7.params=
+comment7.target=void\ faceDirection()
+comment7.text=\n\ Method\ so\ that\ when\ Pacman\ is\ going\ a\ certain\ direction,\n\ a\ variable\ is\ set.\ The\ variable\ is\ used\ in\ the\ animation\n\ method.\n
+numComments=8
